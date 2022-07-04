@@ -1,4 +1,4 @@
-# JUL Log Stats
+# Log Stats
 
 Logging frameworks provide some statistics on the amount of logs you output for ingestion but those numbers are a bit problematic. This library is a simple tool that monitors the logs and counts the number of times every log is printed. It currently supports JUL (java.util.logging) but additional Java loggers can be supported as well.
 
